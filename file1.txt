@@ -6,20 +6,6 @@ braching added
 
 changed to fix bug2
 
-
 changed : from teammate from remote repo for some feature
 
-undo - 
 
-checkout - safe undo unstaged/uncommitted,commit and file
-revert - safe undo committed,commit level, private as well as public 
-reset - unsafe undo committed, file and commit level,
-
-
-braching added
-
-changed to fix bug2
-
-change 4: to fix bug2
-
-change 5: TO REST rebase and his change is from team mate 
