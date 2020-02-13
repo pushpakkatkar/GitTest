@@ -14,3 +14,5 @@ reset - unsafe undo committed, file and commit level,
 
 
 braching added
+
+changed to fix bug2
