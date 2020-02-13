@@ -1,3 +1,13 @@
 helloworld
 welcome to Git 
 login feature
+
+change - to test revert
+
+checkout - switch version/branch/tags
+
+undo - 
+
+checkout - safe undo unstaged/uncommitted,commit and file
+revert - safe undo committed,commit level, private as well as public 
+reset - unsafe undo committed, file and commit level,
