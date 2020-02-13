@@ -6,4 +6,17 @@ braching added
 
 changed to fix bug2
 
+<<<<<<< HEAD
 changed : from teammate from remote repo for some feature
+=======
+undo - 
+
+checkout - safe undo unstaged/uncommitted,commit and file
+revert - safe undo committed,commit level, private as well as public 
+reset - unsafe undo committed, file and commit level,
+
+
+braching added
+
+changed to fix bug2
+>>>>>>> bug2
